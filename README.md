@@ -68,7 +68,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 mkdir %userprofile%\Desktop\DocBackup
 copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 echo Backup completed successfully!
-
+ 
 ## OUTPUT :
 ![WhatsApp Image 2024-05-07 at 19 36 14_9ddc8782](https://github.com/HIRU-VIRU/Windows-basic-commands-batchscript/assets/145972122/1e8bd16c-f8d8-460c-8330-25beff843206)
 
